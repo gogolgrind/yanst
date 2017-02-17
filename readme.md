@@ -2,7 +2,7 @@ This is yet another implemntation of A Neural Algorithm of Artistic Style (https
 
 Fast methods like texture nets and other will be implimented later 
 
-Intially it base on https://github.com/Lasagne/Recipes/blob/master/examples/styletransfer/   [1]
+Intially it bases on https://github.com/Lasagne/Recipes/blob/master/examples/styletransfer/   [1]
 
 Key features are following:
 
@@ -10,6 +10,6 @@ Key features are following:
 
 2. Optimization by adam gradient decent.
 
-3. Special constraint on colors ( gray scale only option)
+3. Special constraint on rgb colors (gray scale only option)
 
 ![Alt text](https://pp.vk.me/c637326/v637326831/2f93c/mjyPwpe-iDY.jpg?raw=true "Example")
